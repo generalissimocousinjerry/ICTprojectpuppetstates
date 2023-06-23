@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Japanese Puppet States during WWII</title>
+  <link rel="icon" type="image/x-icon" href="favicon.ico.png">
+  <link rel="stylesheet" type="text/css" href="styles.css">
+
+<body style="background-color:salmon;">
+
+<h1 style="text-align:center;color:white;font-size:49px;"><b> Japanese Puppet States during WWII </b></h1>
+<hr>
+<p style="text-align:justify;"> During World War II a number of countries were conquered and controlled. Some of these countries were then given new names, and assigned new governmental leaders which were loyal to the conquering country. These countries are known as puppet states. Germany and Japan were the two countries with the most puppet states. Italy also had several puppet states. The Allies had many more puppet states than all the Axis collectively: the United Kingdom possessed the largest empire in the world, followed by France, and the United States had colonies, protectorates, puppets and territories throughout South Asia, the Caribbean, Central America and Polynesia. Additionally, the United Kingdom and France took control of the colonial empire of Italy following the war for many years.<p/>
+
+<p style="text-align:justify;">Additionally, several countries captured land in the years leading up to the war which then became puppet states; those states which are immediately relevant to the war are also included here.<p/>
+
+<p style="text-align:justify;">Manchukuo, officially the State of Manchuria prior to 1934 and the Empire of (Great) Manchuria after 1934, was a puppet state of the Empire of Japan in Manchuria from 1932 until 1945. It was founded as a republic in 1932 after the Japanese invasion of Manchuria, and in 1934 it became a constitutional monarchy under the de facto control of Japan. It had limited international recognition.<p/>
+
+<p style="text-align:justify;">Mengjiang, also known as Mengkiang or the Mongol Border Land, officially referred to as the Mengjiang United Autonomous Government, was an autonomous area in Inner Mongolia, formed in 1939 as a puppet state of the Empire of Japan, then from 1940 being under the nominal sovereignty of the Reorganized National Government of the Republic of China (which was itself also a puppet state). It consisted of the previously Chinese provinces of Chahar and Suiyuan, corresponding to the central part of modern Inner Mongolia. It has also been called Mongukuo or Mengguguo (or Mengkukuo; Chinese: 蒙古國; in analogy to Manchukuo, another Japanese puppet state in Manchuria). The capital was Kalgan, from where it was under the nominal rule of Mongol nobleman Demchugdongrub. The territory returned to Chinese control after the defeat of the Japanese Empire in 1945.</p>
+
+<p style="text-align:justify;">The Great Way or Dadao Government, formally the Great Way Municipal Government of Shanghai, was a short-lived puppet government proclaimed in Pudong on December 5, 1937, to administer Japanese-occupied Shanghai in the early stages of the Second Sino-Japanese War. <p/>
+
+<hr>
+<li><button onclick="document.location='manchukuo.htm'">Manchukuo</button>
+<li><button onclick="document.location='Mengjiang.htm'">Mengjiang</button>
+<li><button onclick="document.location='Provisional Municipality of East Shanghai.htm'">Provisional Municipality of East Shanghai</button>
+<hr>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Manchukuo_map_1939.svg/1920px-Manchukuo_map_1939.svg.png" alt="Manchukuo Map" width="500" height="250"> <p> (Above) <br> The map of all Puppet States and Japanese controlled areas during WWII<p/>
+<hr>
+<a href="https://en.wikipedia.org/wiki/List_of_World_War_II_puppet_states">READ MORE HERE</a>
+</body>
+</html>

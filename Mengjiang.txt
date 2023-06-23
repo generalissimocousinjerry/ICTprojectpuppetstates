@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Mengjiang</title>
+  <link rel="icon" type="image/x-icon" href="favicon.ico.png">
+  <link rel="stylesheet" type="text/css" href="styles.css">
+
+<body style="background-color:beige;">
+
+<h1 style="text-align:center;color:purple;font-size:49px;"><b> THE PUPPET STATE OF MENGJIANG </b></h1>
+<hr>
+</ul>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Flag_of_the_Mengjiang.svg/1920px-Flag_of_the_Mengjiang.svg.png" alt="Mengjiang Flag" width="500" height="250"> <p> (Above) <br> The flag of Mengjiang <p/>
+<hr>
+<p style="text-align:justify;"> Mengjiang, also known as Mengkiang or the Mongol Border Land, officially referred to as the Mengjiang United Autonomous Government, was an autonomous area in Inner Mongolia, formed in 1939 as a puppet state of the Empire of Japan, then from 1940 being under the nominal sovereignty of the Reorganized National Government of the Republic of China (which was itself also a puppet state). It consisted of the previously Chinese provinces of Chahar and Suiyuan, corresponding to the central part of modern Inner Mongolia. It has also been called Mongukuo or Mengguguo (or Mengkukuo; Chinese: 蒙古國; in analogy to Manchukuo, another Japanese puppet state in Manchuria). The capital was Kalgan, from where it was under the nominal rule of Mongol nobleman Demchugdongrub. The territory returned to Chinese control after the defeat of the Japanese Empire in 1945. <p/>
+
+<p style="text-align:justify;"> Following Japan's occupation of Manchuria in 1931 and the establishment of the puppet state of Manchukuo, Japan sought to expand its influence in Mongolia and North China. In a series of actions, starting in 1933, the armies of Manchukuo and Japan occupied Chahar and in 1936 proclaimed itself the independent Mongol Military Government, allied with Japan under Prince Demchugdongrub. <p/>
+
+<p style="text-align:justify;"> In 1936 and 1937, similar operations in Suiyuan saw the occupation and absorption of that province also. <p/>
+
+<p style="text-align:justify;"> Formed on May 12, 1936, the Mongol Military Government (蒙古軍政府) had Prince Yondonwangchug of Ulanqab as its first chairman. It was renamed in October 1937 as the Mongol United Autonomous Government (蒙古聯盟自治政府). On September 1, 1939, the predominantly Han Chinese governments of South Chahar and North Shanxi were merged with the Mongol United Autonomous Government, creating the new Mengjiang United Autonomous Government (蒙疆聯合自治政府). The capital was established at Zhangbei (Changpei), near Kalgan (Zhangjiakou), with the government's control extending around Hohhot. On August 4, 1941, it was again renamed: the Mongolian Autonomous Federation (蒙古自治邦). </p>
+
+<p style="text-align:justify;"> In 1939 Wang Jingwei reorganized the remnants of the occupied Chinese government for a Japanese puppet state, commonly referred to as the Wang Jingwei Regime, or the Reorganized National Government, with its capital in Nanjing. Mengjiang was nominally incorporated into the regime in 1940, though it remained autonomous from Nanjing. <p/>
+
+<p style="text-align:justify;"> Mengjiang capitulated in 1945 when it was invaded by the Soviet Red Army and Mongol Red Army as part of the Manchurian Strategic Offensive Operation. Most of the area, with the notable exception of Kalgan, is now part of Inner Mongolia in the People's Republic of China. <p/>
+
+<hr>
+
+<p style="text-align:justify;"> Other Japanese Puppet States in China: <p/>
+<ul>
+  <li>Manchukuo</li>
+  <li>Wang Jingwei's ROC</li>
+  <li>East Shanghai Provisional Municipality</li>
+  <hr>
+</ul>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Manchukuo_map_1939.svg/1920px-Manchukuo_map_1939.svg.png" alt="Manchukuo Map" width="500" height="250"> <p> (Above) <br> The map of all Japanese Puppet States and Japanese controlled areas during WWII<p/>
+<hr>
+<a href="https://en.wikipedia.org/wiki/Mengjiang">READ MORE HERE</a>
+<button onclick="document.location='index.html'">Go Back to Home Page</button>
+</body>
+</html>
